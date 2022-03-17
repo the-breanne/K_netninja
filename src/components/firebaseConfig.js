@@ -1,4 +1,4 @@
-export default firebaseConfig = {
+export const firebaseConfig = {
     apiKey: "AIzaSyDIXVWRNY9Fik3o4fGF0SPE0X-FhQUlhjM",
     authDomain: "netninja-af6e1.firebaseapp.com",
     projectId: "netninja-af6e1",
